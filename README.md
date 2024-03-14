@@ -1,16 +1,28 @@
-### Hi there 👋
+# About Me
 
-<!--
-**yiSong408/yiSong408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science(Msc) from Uni of Bristol
 
-Here are some ideas to get you started:
+<!-- PROJECT SHIELDS -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+ 
+## Contents
+
+- [Skills](#skills)
+
+
+### Skills
+- Proficient in Java 8 programming including collection framework, multi-threading, RESTful API design, I/O streams, and functional interfaces. Familiar with Spring and Spring Boot web application frameworks.
+- Proficient in JavaScript, HTML, and CSS; experienced with front-end frameworks including Vue.js and React.js.
+- Skilled in SQL database design, optimization and administration 
+- Experienced with NoSQL databases like Redis and MongoDB. 
+- Experienced with message queuing and streaming pipelines using RabbitMQ. 
+- Experienced with test automation tools including Cucumber BDD and JUnit. 
+- Experienced with Git for version control, code collaboration, and Agile development workflows.
+- Additional skills include Linux, Docker, Nginx, AWS, Azure,  C/C++, Algorithm Design & Analysis, deep learning related: Python, Pandas
+
+
+<!-- links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/yi-song-14b82717a/
