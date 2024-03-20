@@ -1,15 +1,17 @@
 # About Me
 
-Computer Science(Msc) from Uni of Bristol
+Computer Science(Msc) from Uni of Bristol, looking for intership and graduation placement
 
 <!-- PROJECT SHIELDS -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![JAVA][java-shield]]
 
  
 ## Contents
 
 - [Skills](#skills)
+- [Education](#education)
 
 
 ### Skills
@@ -22,7 +24,13 @@ Computer Science(Msc) from Uni of Bristol
 - Experienced with Git for version control, code collaboration, and Agile development workflows.
 - Additional skills include Linux, Docker, Nginx, AWS, Azure,  C/C++, Algorithm Design & Analysis, deep learning related: Python, Pandas
 
+### Education
+2023.9 - 2024.9 University of Bristol
+2020.9 - 2022.4 University of Bath
+2017.9 - 2019.9 London South Bank University
+
 
 <!-- links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yi-song-14b82717a/
+[java-shield]: https://img.shields.io/badge/JAVA-80%-blue
