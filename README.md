@@ -23,8 +23,8 @@ Computer Science(Msc) from Uni of Bristol, looking for intership and graduation 
 - Additional skills include Linux, Docker, Nginx, AWS, Azure,  C/C++, Algorithm Design & Analysis, deep learning related: Python, Pandas
 
 ### Education
-2023.9 - 2024.9 University of Bristol
-2020.9 - 2022.4 University of Bath
+2023.9 - 2024.9 University of Bristol<hr>
+2020.9 - 2022.4 University of Bath<hr>
 2017.9 - 2019.9 London South Bank University
 
 
