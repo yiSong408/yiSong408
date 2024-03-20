@@ -6,6 +6,7 @@ Computer Science(Msc) from Uni of Bristol, looking for intership and graduation 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![Static Badge](https://img.shields.io/badge/JAVA-80%25-blue)
+[![Python]]
 
  
 ## Contents
