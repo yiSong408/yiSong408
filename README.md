@@ -5,7 +5,7 @@ Computer Science(Msc) from Uni of Bristol, looking for intership and graduation 
 <!-- PROJECT SHIELDS -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[[java-shield]]
+[[[java-shield]]](https://img.shields.io/badge/JAVA-80%25-blue)
  
 ## Contents
 
@@ -32,5 +32,4 @@ Computer Science(Msc) from Uni of Bristol, looking for intership and graduation 
 <!-- links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yi-song-14b82717a/
-[java-shield]: https://img.shields.io/badge/JAVA-80%25-blue
 
