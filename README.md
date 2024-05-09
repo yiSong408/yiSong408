@@ -20,7 +20,7 @@ Computer Science(Msc) from Uni of Bristol, looking for intership and graduation 
 - Experienced with message queuing and streaming pipelines using RabbitMQ. 
 - Experienced with test automation tools including Cucumber BDD and JUnit. 
 - Experienced with Git for version control, code collaboration, and Agile development workflows.
-- Additional skills include Linux, Docker, Nginx, AWS, Azure,  C/C++, Algorithm Design & Analysis, deep learning related: Python, Pandas
+- Additional skills include Linux, Docker, Nginx, AWS, Azure,  C/C++, Algorithm Design & Analysis, deep learning related: SkLearn, Numpy
 
 ### Education
 2023.9 - 2024.9 University of Bristol<br>
