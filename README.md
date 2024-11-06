@@ -6,7 +6,7 @@ Computer Science(Msc) from Uni of Bristol, looking for intership and graduation 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <br>
-<a href="http://www.ronghey.com">My personal space</a>
+<a href="https://cn.ronghey.com">Welcome to view my personal space</a>
  
 ## Contents
 
