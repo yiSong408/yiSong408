@@ -1,6 +1,6 @@
 # About Me
 
-Computer Science(Msc) from Uni of Bristol, looking for intership and graduation placement
+Master of Computer Science(Msc) from Univeristy of Bristol
 
 <!-- PROJECT SHIELDS -->
 
