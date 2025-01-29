@@ -15,14 +15,13 @@ Master of Computer Science(Msc) from Univeristy of Bristol
 
 
 ### Skills
-- Proficient in Java 8 programming including collection framework, multi-threading, RESTful API design, I/O streams, and functional interfaces. Familiar with Spring and Spring Boot web application frameworks.
-- Proficient in JavaScript, HTML, and CSS; experienced with front-end frameworks including Vue.js and React.js.
-- Skilled in SQL database design, optimization and administration 
-- Experienced with NoSQL databases like Redis and MongoDB. 
-- Experienced with message queuing and streaming pipelines using RabbitMQ. 
-- Experienced with test automation tools including Cucumber BDD and JUnit. 
-- Experienced with Git for version control, code collaboration, and Agile development workflows.
-- Additional skills include Linux, Docker, Nginx, AWS, Azure,  C/C++, Algorithm Design & Analysis, deep learning related: SkLearn, Numpy
+- Go, Gin, Gorm, Go-Zero, Fiber;
+- Python, Fastapi, Django, Streamlit;
+- Java, Spring, SpringBoot, SpringCloud, Mybatis, MybatisPlus, Maven, Gradle;
+- JavaScript, HTML, CSS, Vue.js and React.js;
+- MySql, PGSql, Redis, MongoDB;
+- Kafka, RocketMq, RedisStream;
+- Additional skills include Git, Linux, Kuboard, Grafana, Loki, Docker, Nginx, AWS;
 
 ### Education
 2023.9 - 2024.9 University of Bristol<br>
