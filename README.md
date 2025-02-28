@@ -2,7 +2,9 @@
   <h1>👋 Hello, I'm Yi Song</h1>
   <p>Master of Computer Science (MSc) from University of Bristol</p>
 
-  [![LinkedIn][linkedin-shield]][linkedin-url]
+  <a href="https://www.linkedin.com/in/yi-song-14b82717a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ## 📚 Contents
