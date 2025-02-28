@@ -34,8 +34,7 @@
 ### DevOps & Tools
 - 🛠 **Version Control**: Git
 - 🐧 **OS**: Linux
-- 🔧 **Tools**: Docker, Nginx, AWS
-- 📊 **Monitoring**: Kuboard, Grafana, Loki
+- 🔧 **Tools**: Docker, Nginx, AWS, Terraform, Kubernetes, Prometheus, Grafana, Jaeger, Loki
 
 ## 🎓 Education
 
