@@ -1,33 +1,58 @@
-# About Me
+<div align="center">
+  <h1>👋 Hello, I'm Yi Song</h1>
+  <p>Master of Computer Science (MSc) from University of Bristol</p>
 
-Master of Computer Science(Msc) from Univeristy of Bristol
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
-<!-- PROJECT SHIELDS -->
+## 📚 Contents
+- [Technical Skills](#-technical-skills)
+- [Education](#-education)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br>
-<a href="https://cn.ronghey.com">Welcome to view my personal space</a>
- 
-## Contents
+## 🛠 Technical Skills
 
-- [Skills](#skills)
-- [Education](#education)
+### Programming Languages
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### Frameworks & Libraries
+#### Backend
+- 🔹 **Go**: Gin, Gorm, Go-Zero, Fiber
+- 🔹 **Python**: FastAPI, Django, Streamlit
+- 🔹 **Java**: Spring, SpringBoot, SpringCloud, Mybatis, MybatisPlus
 
-### Skills
-- Go, Gin, Gorm, Go-Zero, Fiber;
-- Python, Fastapi, Django, Streamlit;
-- Java, Spring, SpringBoot, SpringCloud, Mybatis, MybatisPlus, Maven, Gradle;
-- JavaScript, HTML, CSS, Vue.js and React.js;
-- MySql, PGSql, Redis, MongoDB;
-- Kafka, RocketMq, RedisStream;
-- Additional skills include Git, Linux, Kuboard, Grafana, Loki, Docker, Nginx, AWS;
+#### Frontend
+- 🔸 **Web**: HTML, CSS
+- 🔸 **Frameworks**: Vue.js, React.js
 
-### Education
-2023.9 - 2024.9 University of Bristol<br>
-2020.9 - 2022.4 University of Bath<br>
-2017.9 - 2019.9 London South Bank University
+### Databases & Message Queues
+- 💾 **Databases**: MySQL, PostgreSQL, Redis, MongoDB
+- 📨 **Message Queues**: Kafka, RocketMQ, RedisStream
 
+### DevOps & Tools
+- 🛠 **Version Control**: Git
+- 🐧 **OS**: Linux
+- 🔧 **Tools**: Docker, Nginx, AWS
+- 📊 **Monitoring**: Kuboard, Grafana, Loki
+
+## 🎓 Education
+
+| Year | Institution | Degree |
+|------|-------------|---------|
+| 2023-2024 | University of Bristol | MSc in Computer Science |
+| 2020-2022 | University of Bath | Graduate Studies |
+| 2017-2019 | London South Bank University | Undergraduate Studies |
+
+---
+<div align="center">
+  <i>Let's connect and chat!</i>
+  <br>
+  <a href="https://www.linkedin.com/in/yi-song-14b82717a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 <!-- links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
