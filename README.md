@@ -34,9 +34,9 @@
 - 📨 **Message Queues**: Kafka, RocketMQ, RedisStream
 
 ### DevOps & Tools
-- 🛠 **Version Control**: Git, Bytebase
+- 🛠 **Version Control**: Github, GitLab, Gitee
 - 🐧 **OS**: Linux, Mac, Windows
-- 🔧 **Tools**: Docker, Nginx, AWS, Terraform, n8n, Kubernetes, Prometheus, Grafana, Jaeger, Loki
+- 🔧 **Tools**: Docker, Nginx, AWS, Terraform, n8n, Kubernetes, Prometheus, Grafana, Jaeger, Loki, Bytebase, Postman
 
 ## 🎓 Education
 
